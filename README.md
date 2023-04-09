@@ -6,7 +6,8 @@ A Warehouse-Store concept-based microservice, built using Fast API, Redis, and R
 
 ## Project Summary
 
-[]("./img/fastapi-microservice.png)
+![image](https://user-images.githubusercontent.com/93156825/230801900-3669fd58-01ea-41ee-ada6-4f512e05cf69.png)
+
 
 + ### warehouse-server
 Responsible for creating products, and deciding the price and quantity of the product. One can add, list, review and delete the product created.
